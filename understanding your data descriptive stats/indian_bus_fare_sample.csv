@@ -1,0 +1,101 @@
+Agency,Source,Destination,Bus Type,Travel Date,Fare Price (INR),Total Seats,Duration (hours)
+RedBus,Mumbai,Delhi,Luxury,2022-04-12,820.61,49,6.4
+KPN Travels,Mumbai,Pune,Luxury,2018-01-29,1068.56,41,6.2
+Parveen Travels,Bangalore,Hyderabad,Volvo,2021-09-30,2023.67,32,10.6
+VRL Travels,Bangalore,Delhi,Non-AC,2021-08-05,2044.94,55,11.2
+KPN Travels,Chennai,Hyderabad,AC Seater,2021-03-02,342.27,49,9.3
+KPN Travels,Delhi,Hyderabad,Volvo,2021-10-25,1868.37,53,9.1
+Sharma Travels,Delhi,Lucknow,Sleeper,2018-04-25,1922.86,40,5.7
+Sharma Travels,Pune,Mumbai,AC Seater,2022-05-23,2413.69,44,9.7
+SRS Travels,Hyderabad,Pune,Luxury,2019-07-26,2892.57,54,16.4
+SRS Travels,Ahmedabad,Delhi,Non-AC,2018-10-01,369.02,43,18.5
+VRL Travels,Lucknow,Delhi,Volvo,2018-09-26,871.45,38,11.2
+RedBus,Mumbai,Delhi,Non-AC,2021-01-12,831.21,41,4.7
+VRL Travels,Hyderabad,Lucknow,AC Seater,2019-01-26,2854.88,40,6.7
+RedBus,Delhi,Jaipur,Non-AC,2019-09-08,2937.36,51,8.8
+KPN Travels,Hyderabad,Jaipur,Volvo,2019-05-06,1602.98,32,11.7
+VRL Travels,Delhi,Mumbai,AC Seater,2021-11-17,910.93,43,15.9
+VRL Travels,Jaipur,Lucknow,Sleeper,2022-01-09,1191.84,54,9.0
+Sharma Travels,Bangalore,Jaipur,Sleeper,2021-09-09,2488.41,50,12.0
+Sharma Travels,Hyderabad,Bangalore,Luxury,2020-06-18,648.72,42,8.5
+Parveen Travels,Hyderabad,Pune,Sleeper,2018-05-29,2868.25,40,8.3
+SRS Travels,Lucknow,Mumbai,Sleeper,2019-10-08,2577.18,30,12.7
+Parveen Travels,Hyderabad,Bangalore,Non-AC,2018-06-28,2713.69,55,6.3
+SRS Travels,Hyderabad,Ahmedabad,Luxury,2019-09-21,2055.03,52,5.5
+RedBus,Ahmedabad,Jaipur,AC Seater,2017-01-24,959.72,43,7.4
+VRL Travels,Chennai,Bangalore,Non-AC,2017-03-21,2267.88,39,15.7
+Sharma Travels,Bangalore,Mumbai,Luxury,2017-03-13,2362.53,36,6.5
+KPN Travels,Delhi,Mumbai,AC Seater,2018-04-14,2720.79,30,17.6
+Parveen Travels,Hyderabad,Lucknow,Sleeper,2019-10-28,1747.19,48,11.2
+KPN Travels,Ahmedabad,Hyderabad,Non-AC,2021-08-03,993.29,37,18.6
+SRS Travels,Ahmedabad,Delhi,Luxury,2020-05-14,1980.22,41,19.9
+RedBus,Mumbai,Jaipur,Luxury,2018-04-19,631.34,38,17.7
+SRS Travels,Bangalore,Chennai,AC Seater,2021-10-13,2482.72,38,6.3
+Sharma Travels,Hyderabad,Pune,Luxury,2018-08-10,1248.74,38,11.5
+Parveen Travels,Lucknow,Jaipur,Non-AC,2017-04-26,2269.21,30,17.2
+Parveen Travels,Ahmedabad,Hyderabad,Luxury,2017-07-14,2025.34,43,14.6
+Sharma Travels,Chennai,Bangalore,Sleeper,2018-09-29,391.51,33,10.0
+VRL Travels,Bangalore,Ahmedabad,Luxury,2019-09-21,2112.18,49,4.1
+SRS Travels,Bangalore,Chennai,Non-AC,2020-02-28,1199.35,40,17.1
+KPN Travels,Hyderabad,Chennai,Non-AC,2020-01-14,1516.43,32,9.9
+VRL Travels,Pune,Ahmedabad,Non-AC,2017-12-16,2609.43,36,4.5
+RedBus,Delhi,Chennai,Volvo,2022-05-25,754.3,32,19.7
+KPN Travels,Hyderabad,Chennai,Volvo,2017-06-19,2198.7,54,17.7
+SRS Travels,Bangalore,Mumbai,Sleeper,2020-09-07,1120.23,35,9.1
+RedBus,Hyderabad,Lucknow,Volvo,2022-01-21,2198.46,48,7.2
+Parveen Travels,Lucknow,Jaipur,Sleeper,2018-12-20,2094.62,33,15.1
+Parveen Travels,Pune,Jaipur,Luxury,2019-12-06,361.67,39,18.2
+Sharma Travels,Delhi,Chennai,AC Seater,2018-06-08,2005.33,31,14.0
+RedBus,Ahmedabad,Bangalore,AC Seater,2018-09-26,1902.65,38,19.0
+Sharma Travels,Chennai,Pune,Sleeper,2017-10-10,1454.83,51,10.0
+VRL Travels,Pune,Mumbai,Sleeper,2021-12-31,2532.38,41,19.7
+KPN Travels,Ahmedabad,Delhi,Non-AC,2021-11-21,508.23,35,19.6
+VRL Travels,Bangalore,Mumbai,AC Seater,2019-10-16,2510.15,41,10.1
+SRS Travels,Ahmedabad,Chennai,Non-AC,2021-06-29,2191.79,48,8.5
+Sharma Travels,Lucknow,Hyderabad,Non-AC,2017-04-30,625.15,30,6.0
+Sharma Travels,Jaipur,Lucknow,AC Seater,2018-01-07,1229.77,43,10.9
+SRS Travels,Jaipur,Bangalore,AC Seater,2019-12-13,356.36,32,19.4
+Parveen Travels,Bangalore,Mumbai,AC Seater,2020-04-09,2340.18,30,7.7
+SRS Travels,Mumbai,Bangalore,Volvo,2020-12-01,1234.9,52,17.7
+RedBus,Bangalore,Hyderabad,Sleeper,2021-05-17,1006.91,53,15.0
+VRL Travels,Chennai,Pune,Sleeper,2022-03-22,1931.2,33,8.2
+Parveen Travels,Hyderabad,Jaipur,Luxury,2017-07-15,1032.13,55,19.3
+VRL Travels,Chennai,Lucknow,AC Seater,2021-06-30,912.36,45,7.2
+KPN Travels,Pune,Chennai,Luxury,2020-02-01,2071.24,49,17.3
+VRL Travels,Mumbai,Hyderabad,AC Seater,2019-01-19,2950.39,55,10.1
+SRS Travels,Jaipur,Mumbai,Volvo,2021-08-29,839.16,32,8.0
+KPN Travels,Lucknow,Chennai,Volvo,2021-02-27,916.48,35,6.4
+SRS Travels,Chennai,Pune,Non-AC,2019-01-26,1524.43,38,9.4
+Parveen Travels,Pune,Lucknow,Volvo,2020-07-29,2104.96,52,9.1
+VRL Travels,Jaipur,Hyderabad,Volvo,2021-09-26,1048.39,44,14.1
+RedBus,Jaipur,Delhi,Luxury,2021-08-24,502.72,42,15.1
+VRL Travels,Chennai,Jaipur,Sleeper,2018-12-10,1142.39,43,4.2
+SRS Travels,Bangalore,Mumbai,Volvo,2020-02-10,1736.01,48,10.1
+RedBus,Chennai,Delhi,Volvo,2021-12-22,992.19,31,14.9
+RedBus,Hyderabad,Chennai,Luxury,2022-01-11,2779.65,48,19.3
+Sharma Travels,Lucknow,Hyderabad,Sleeper,2018-04-30,1931.96,49,18.3
+RedBus,Pune,Chennai,Luxury,2017-05-08,2577.05,48,18.2
+VRL Travels,Hyderabad,Jaipur,Luxury,2020-02-12,914.93,48,11.8
+Sharma Travels,Hyderabad,Lucknow,Non-AC,2019-12-31,2223.14,51,15.9
+RedBus,Chennai,Delhi,Non-AC,2020-09-07,2968.72,31,4.3
+KPN Travels,Mumbai,Bangalore,Volvo,2019-10-08,1635.21,34,10.8
+Parveen Travels,Ahmedabad,Lucknow,AC Seater,2020-01-07,2439.5,31,6.3
+RedBus,Pune,Hyderabad,AC Seater,2017-11-18,2597.8,41,11.1
+RedBus,Ahmedabad,Mumbai,AC Seater,2020-04-27,1436.2,48,18.6
+SRS Travels,Ahmedabad,Delhi,AC Seater,2018-04-24,1839.73,35,9.9
+VRL Travels,Delhi,Lucknow,Luxury,2021-04-29,557.19,36,11.8
+SRS Travels,Chennai,Ahmedabad,Volvo,2017-04-06,2291.62,46,17.5
+Sharma Travels,Delhi,Bangalore,Sleeper,2019-05-04,496.95,41,5.7
+Parveen Travels,Delhi,Mumbai,Non-AC,2017-06-18,1541.67,43,9.6
+SRS Travels,Mumbai,Ahmedabad,Sleeper,2021-05-24,2217.69,50,16.5
+VRL Travels,Chennai,Delhi,Luxury,2021-10-18,1225.65,31,12.7
+VRL Travels,Chennai,Pune,Non-AC,2021-12-29,2329.44,42,14.0
+RedBus,Delhi,Lucknow,Luxury,2020-10-22,1608.16,34,19.2
+VRL Travels,Lucknow,Bangalore,Luxury,2018-08-05,2350.23,32,19.3
+SRS Travels,Ahmedabad,Hyderabad,Non-AC,2020-09-07,1257.68,44,7.0
+KPN Travels,Ahmedabad,Jaipur,Sleeper,2018-10-27,2324.88,43,16.2
+VRL Travels,Chennai,Lucknow,Sleeper,2021-02-26,892.77,40,4.8
+SRS Travels,Chennai,Pune,Volvo,2021-04-23,1115.41,49,17.6
+VRL Travels,Jaipur,Lucknow,AC Seater,2022-03-18,2853.7,48,14.0
+Parveen Travels,Chennai,Lucknow,Sleeper,2021-09-04,512.43,54,6.5
+SRS Travels,Delhi,Jaipur,Non-AC,2020-10-21,866.41,39,9.0
